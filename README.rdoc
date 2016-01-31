@@ -1,3 +1,5 @@
 == README
 
 This is the first alpha-blog on a Ruby course.
+
+edit 3
