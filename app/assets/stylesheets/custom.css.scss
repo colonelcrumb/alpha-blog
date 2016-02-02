@@ -27,10 +27,15 @@ $navbar-default-bg: #3d3d3d;
 footer {
   margin-top: 24px;
   padding-top: 8px;
-  border-top: 1px solid #666;
+  border-top: 1px solid #eaeaea;
   color: #666;
 }
 
 footer a:hover {
   text-decoration: none;
+}
+
+.article-actions {
+  padding-top: 8px;
+  border-top: 1px solid #eaeaea;
 }
